@@ -5,11 +5,11 @@
 }
 @font-face {
     font-family: hameto;
-    src: url('/fontes/rammettoone-regularr.ttf');
+    src: url('../fontes/rammettoone-regularr.ttf');
 }
 @font-face {
     font-family: arimo;
-    src: url('/fontes/arimo.ttf')
+    src: url('../fontes/arimo.ttf')
 }
 html {
     background-color: black;
